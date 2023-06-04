@@ -3,9 +3,6 @@ import { ref, onMounted } from "vue";
 import { RouterLink, RouterView } from "vue-router";
 import MenuItem from "./components/MenuItem.vue";
 
-import HomeOutline from "vue-material-design-icons/HomeOutline.vue";
-import TrendingUp from "vue-material-design-icons/Details.vue";
-import Contacts from "vue-material-design-icons/Contacts.vue";
 </script>
 
 <template>
